@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-SQLite-3BBF53?style=flat-square&logo=sqlite"/>
-<img src="https://img.shields.io/badge/-MySQL-3B77BF?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
