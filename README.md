@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="/images/header.png" alt="mountain view"/>
+<img src="/images/head.png" alt="mountain view"/>
 
 <p align="center">
  
