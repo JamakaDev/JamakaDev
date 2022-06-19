@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="/images/newbg(1).png" alt="mountain view"/>
+<img src="/images/header.png" alt="mountain view"/>
 
 <p align="center">
  
