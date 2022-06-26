@@ -40,7 +40,7 @@
 <a href="https://www.linkedin.com/in/jon-adams-b00203239">
  <img src="https://img.shields.io/badge/-jonadams-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jon-adams-b00203239/"/>
 </a>
- <a href="https://twitter.com/jamakaDev">
+ <a href="https://twitter.com/jamakaDev">@
  <img src="https://img.shields.io/badge/-jamakaDev-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/jamakaDev"/>
 </a>
 </p>
@@ -60,16 +60,16 @@
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=JamakaDev&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JamakaDev&hide=java,shaderlab,kotlin,hlsl&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JamakaDev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JamakaDev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=JamakaDev&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=JamakaDev&theme=tokyonight" alt="mystreak"/>
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=JamakaDev&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=JamakaDev&theme=tokyonight">
 </p> 
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
